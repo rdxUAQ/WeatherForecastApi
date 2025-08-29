@@ -1,0 +1,68 @@
+[
+  {
+    "Id": "362894a9-9837-4a39-99ad-008d7f808eb7",
+    "Date": "2024-06-10T00:00:00",
+    "TemperatureC": 22,
+    "Summary": "Sunny"
+  },
+  {
+    "Id": "065c92b7-f40b-40a3-9291-fa42de7c5e30",
+    "Date": "2024-06-11T00:00:00",
+    "TemperatureC": 18,
+    "Summary": "Cloudy"
+  },
+  {
+    "Id": "9fc37e2f-4a04-428e-89f4-f1c40124ce6a",
+    "Date": "2024-06-12T00:00:00",
+    "TemperatureC": 25,
+    "Summary": "Hot"
+  },
+  {
+    "Id": "e3045c37-b0ac-4831-b3f4-de288b083821",
+    "Date": "2024-06-13T00:00:00",
+    "TemperatureC": 16,
+    "Summary": "Rainy"
+  },
+  {
+    "Id": "466194c6-1c01-4284-a771-46aec35d077a",
+    "Date": "2024-06-14T00:00:00",
+    "TemperatureC": 20,
+    "Summary": "Windy"
+  },
+  {
+    "Id": "562f717f-b896-464d-a108-172fd32a85bd",
+    "Date": "2025-08-29T00:00:00",
+    "TemperatureC": 25,
+    "Summary": "Warm"
+  },
+  {
+    "Id": "280ec06b-be55-4451-a4b8-0f7228ccb46c",
+    "Date": "2025-08-29T00:00:00",
+    "TemperatureC": 25,
+    "Summary": "Warm"
+  },
+  {
+    "Id": "a29dd960-6f4f-4ab0-a12f-542142d0b450",
+    "Date": "2025-08-29T00:00:00",
+    "TemperatureC": 25,
+    "Summary": "Warm"
+  },
+  {
+    "Id": "3b29546d-73ae-45ce-9357-fca8cbbf2143",
+    "Date": "2025-08-29T00:00:00",
+    "TemperatureC": 25,
+    "Summary": "Warm"
+  },
+  {
+    "Id": "59d01a12-bd5c-46b8-9f94-2cf4eded7c96",
+    "Date": "2025-08-29T00:00:00",
+    "TemperatureC": 25,
+    "Summary": "Warm"
+  },
+  {
+    "Id": "152bc366-1583-4233-a474-5f42a3408931",
+    "Date": "2025-08-29T00:00:00",
+    "TemperatureC": 25,
+    "Summary": "Warm"
+  }
+]
