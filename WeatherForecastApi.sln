@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{F2EAA77B-4A46-4F39-9C60-711B5EA324E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherForecast.Tests", "WeatherForecast.Tests\WeatherForecast.Tests.csproj", "{E9C4C174-3A82-4F82-AACE-1A6940E048D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorHandling", "..\ErrorHandling\ErrorHandling.csproj", "{A7B4920E-A99C-43F0-A6EF-B7F5925BF099}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,30 @@ Global
 		{F2EAA77B-4A46-4F39-9C60-711B5EA324E4}.Release|x64.Build.0 = Release|Any CPU
 		{F2EAA77B-4A46-4F39-9C60-711B5EA324E4}.Release|x86.ActiveCfg = Release|Any CPU
 		{F2EAA77B-4A46-4F39-9C60-711B5EA324E4}.Release|x86.Build.0 = Release|Any CPU
+		{E9C4C174-3A82-4F82-AACE-1A6940E048D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9C4C174-3A82-4F82-AACE-1A6940E048D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9C4C174-3A82-4F82-AACE-1A6940E048D6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E9C4C174-3A82-4F82-AACE-1A6940E048D6}.Debug|x64.Build.0 = Debug|Any CPU
+		{E9C4C174-3A82-4F82-AACE-1A6940E048D6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E9C4C174-3A82-4F82-AACE-1A6940E048D6}.Debug|x86.Build.0 = Debug|Any CPU
+		{E9C4C174-3A82-4F82-AACE-1A6940E048D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9C4C174-3A82-4F82-AACE-1A6940E048D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9C4C174-3A82-4F82-AACE-1A6940E048D6}.Release|x64.ActiveCfg = Release|Any CPU
+		{E9C4C174-3A82-4F82-AACE-1A6940E048D6}.Release|x64.Build.0 = Release|Any CPU
+		{E9C4C174-3A82-4F82-AACE-1A6940E048D6}.Release|x86.ActiveCfg = Release|Any CPU
+		{E9C4C174-3A82-4F82-AACE-1A6940E048D6}.Release|x86.Build.0 = Release|Any CPU
+		{A7B4920E-A99C-43F0-A6EF-B7F5925BF099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B4920E-A99C-43F0-A6EF-B7F5925BF099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B4920E-A99C-43F0-A6EF-B7F5925BF099}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A7B4920E-A99C-43F0-A6EF-B7F5925BF099}.Debug|x64.Build.0 = Debug|Any CPU
+		{A7B4920E-A99C-43F0-A6EF-B7F5925BF099}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A7B4920E-A99C-43F0-A6EF-B7F5925BF099}.Debug|x86.Build.0 = Debug|Any CPU
+		{A7B4920E-A99C-43F0-A6EF-B7F5925BF099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B4920E-A99C-43F0-A6EF-B7F5925BF099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7B4920E-A99C-43F0-A6EF-B7F5925BF099}.Release|x64.ActiveCfg = Release|Any CPU
+		{A7B4920E-A99C-43F0-A6EF-B7F5925BF099}.Release|x64.Build.0 = Release|Any CPU
+		{A7B4920E-A99C-43F0-A6EF-B7F5925BF099}.Release|x86.ActiveCfg = Release|Any CPU
+		{A7B4920E-A99C-43F0-A6EF-B7F5925BF099}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

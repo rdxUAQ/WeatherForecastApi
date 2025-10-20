@@ -1,10 +1,10 @@
 using Microsoft.AspNetCore.Mvc;
 using Weather.Interfaces;
-using Weather.Services;
 using Weather.Models;
 using Weather.Base;
 using Weather.Const;
 using Weather.Models.Dtos;
+
 
 namespace Weather.Controllers
 {
@@ -33,10 +33,10 @@ namespace Weather.Controllers
 
         };
 
-        // Method implementations go here
+        
 
         [HttpGet("all")]
-        public async Task<IActionResult> Get()
+        public async Task<IActionResult> GetAllRegisters()
         {
 
 
